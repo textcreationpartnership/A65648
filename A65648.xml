@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at the anniversary meeting of the sons of clergy-men, in the church of St. Mary Le Bow, on Tuesday, Decem. 3, 1695 printed at the desire of the stewards of the feast, to whom it is humbly presented / by Tho. Whincop ...</title>
+            <author>Whincop, Thomas, d. 1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65648</idno>
+            <idno type="STC">Wing W1665</idno>
+            <idno type="STC">ESTC R34743</idno>
+            <idno type="EEBO-CITATION">14580959</idno>
+            <idno type="OCLC">ocm 14580959</idno>
+            <idno type="VID">102661</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65648)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102661)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1081:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at the anniversary meeting of the sons of clergy-men, in the church of St. Mary Le Bow, on Tuesday, Decem. 3, 1695 printed at the desire of the stewards of the feast, to whom it is humbly presented / by Tho. Whincop ...</title>
+                  <author>Whincop, Thomas, d. 1730.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Hodgkin for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Epistles of Paul --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:102661:1"/>
+            <p>A SERMON Preach'd at the ANNIVERSARY MEETING OF THE SONS of Clergy-Men.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:102661:2"/>
+            <pb facs="tcp:102661:2"/>
+            <p>A SERMON Preach'd at the Anniverſary Meeting OF THE SONS of CLERGY-MEN, IN THE Church of St. <hi>Mary Le Bow,</hi> On Tueſday, <hi>Decem.</hi> 3. 1695.</p>
+            <p>Printed at the Deſire of the STEWARDS of the FEAST; To whom it is humbly Preſented.</p>
+            <p>By <hi>THO. WHINCOP,</hi> D.D. Rector of the United Pariſhes of St. <hi>Mary Ab-Church</hi> and St. <hi>Lawrence Pountney, London.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Hodgkin,</hi> for <hi>Walter Kettilby,</hi> at the <hi>Biſhop's Head</hi> in St. <hi>Paul</hi>'s Church-Yard, 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:102661:3"/>
+            <pb n="5" facs="tcp:102661:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>St.</hi> Paul<hi>'s Epiſt. to</hi> Titus, <hi>iii. 8.</hi>
+                  </bibl>
+                  <p>
+                     <hi>This is</hi> a faithful ſaying, and theſe things I will that thou affirm conſtantly, that they which have believed in God, might be careful to maintain good works: theſe things are good and pro<g ref="char:EOLhyphen"/>fitable unto men.</p>
+               </q>
+            </epigraph>
+            <p>IT hath been a miſtaken Opinion of ſome, and an invidious Objection of others, that thoſe who are true Belie<g ref="char:EOLhyphen"/>vers need not be ſolicitous about <hi>good Works,</hi> and whatever they did they could not fall, but had a Liberty of doing what they would without Danger or Sin.</p>
+            <p>And this hath been improved by the Ene<g ref="char:EOLhyphen"/>mies of our Reformed Church, as if we had laid aſide all thoughts of Duty towards God, or Chriſtian Regard and Compaſſion of our Neighbour; not ſuppoſing, as they repre<g ref="char:EOLhyphen"/>ſent us, that we make them Articles of our Chriſtian Faith, or neceſſary Terms of our Salvation.</p>
+            <pb n="6" facs="tcp:102661:4"/>
+            <p> Since therefore we have hitherto, God be thanked, out-lived theſe unjuſt Reproaches, the Church whereof we profeſs our ſelves Members, ſtrictly requiring not only Duty towards God, but a compaſſionate Senſe, and helping of our Chriſtian Brother's Indigence; and that we are now once more met toge<g ref="char:EOLhyphen"/>ther, Brethren of the ſame Stock and Li<g ref="char:EOLhyphen"/>nage, deſcended from thoſe who <hi>contended earneſtly for the Faith,</hi> and were as zealous for <hi>good Works.</hi> Witneſs thoſe many chari<g ref="char:EOLhyphen"/>table Bequeſts ſince the Reformation, and the Purpoſe of our <hi>Annual Aſſembly</hi> this Day, is an Evidence that we do not either diſ<g ref="char:EOLhyphen"/>countenance or explode doing Good.</p>
+            <p>The Enemy (as in the Parable) thus ſcat<g ref="char:EOLhyphen"/>ters his <hi>Tares</hi> to choak at leaſt, if not de<g ref="char:EOLhyphen"/>ſtroy the <hi>Wheat;</hi> but maugre all the indu<g ref="char:EOLhyphen"/>ſtrious Deſigns againſt our Holy Faith, we do not forget the Doctrines of our Church, or our Fore-fathers Precepts, but as we be<g ref="char:EOLhyphen"/>lieve in God, are careful alſo to maintain good Works.</p>
+            <p>Which Direction of the Apoſtle's imme<g ref="char:EOLhyphen"/>diately follows other good Advice given un<g ref="char:EOLhyphen"/>to <hi>Titus,</hi> how he ſhould behave himſelf in the Church of God, of which he was made a Bi<g ref="char:EOLhyphen"/>ſhop; as if he ſhould have ſaid:</p>
+            <pb n="7" facs="tcp:102661:4"/>
+            <p> Thoſe things which I have ſpoken concern<g ref="char:EOLhyphen"/>ing the Love of God our Bleſſed Saviour to wards Man, of his being <hi>ſaved by the waſh<g ref="char:EOLhyphen"/>ing of regeneration, and renewing of the holy Ghoſt;</hi> of our <hi>being juſtified by his Grace,</hi> and <hi>made heirs according to the hope of eter<g ref="char:EOLhyphen"/>nal life,</hi> (as in the former <hi>Verſes</hi>), are not fabulous, doubtful, or uncertain things, no Philoſophical Conjectures of <hi>Jewiſh</hi> Traditi<g ref="char:EOLhyphen"/>ons, but <hi>faithful ſayings, and worthy of all ac<g ref="char:EOLhyphen"/>ceptation,</hi>
+               <note place="margin">1 Tim. 1.15.</note> as elſewhere he ſo phraſeth it, and therefore ought to affirm conſtantly.</p>
+            <p>This he directs him to aſſert and publick<g ref="char:EOLhyphen"/>ly teach all Perſons as undoubtedly true, by which precious Promiſes they might be exci<g ref="char:EOLhyphen"/>ted to good Works; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that they ſhould be intent and ſo<g ref="char:EOLhyphen"/>licitous about, remarkable and eminent for them, as Captains and Leaders to every Bo<g ref="char:EOLhyphen"/>dy elſe both for Doctrine and Example, Pi<g ref="char:EOLhyphen"/>ety towards God, and Charity towards their Neighbour, as I take the Word in the lar<g ref="char:EOLhyphen"/>geſt Senſe; And that they ſhould be above others ſo remarkable, the Word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as it is frequently uſed, may properly enough intimate.</p>
+            <p>The Summ of this Apoſtolic Precept is,
+<pb n="8" facs="tcp:102661:5"/>that thoſe who have learned, and profeſs Chriſt's Doctrine ſhould practiſe that Obe<g ref="char:EOLhyphen"/>dience it requires, and be eminent for all good Actions, eſpecially thoſe of Mercy and Charity:</p>
+            <p>In purſuance therefore of which Deſign of the Apoſtle's, and to eſtabliſh the Truth of which Propoſition, I do deſign to ſhew,
+<list>
+                  <item>
+                     <hi>I.</hi> That it is not enough to believe what God hath ſaid to be true, and to give our Aſ<g ref="char:EOLhyphen"/>ſents to the Certainty of Divine Revela<g ref="char:EOLhyphen"/>tion, unleſs our Belief doth influence our Hearts and Lives.</item>
+                  <item>
+                     <hi>II.</hi> That this Practice of good Works in abſo<g ref="char:EOLhyphen"/>lutely neceſſary for all unto Salvation.</item>
+                  <item>
+                     <hi>III.</hi> And, <hi>laſtly,</hi> more eſpecially neceſſary for thoſe that are more particularly acquaint<g ref="char:EOLhyphen"/>ed with God's Will, and early inſtructed therein.</item>
+               </list>
+            </p>
+            <p n="1">I. <hi>Firſt,</hi> I ſay, <hi>It is not enough to believe what God hath ſaid to be true, or to give our Aſſent to the Certainty of Divine Revelation, unleſs our Belief doth influence our Hearts and Lives.</hi>
+            </p>
+            <p>We cannot ſuppoſe Believing to be a bare Notion, and a meer Speculation, a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="9" facs="tcp:102661:5"/>as <hi>Euſebius</hi> calls it, but an obedient Faith, believing the Truth, performing the Com<g ref="char:EOLhyphen"/>mands, omitting the Prohibitions, fearing the Threatnings, and embracing all the Promiſes of God's Word; a Faith working by Love, a new Creature, a keeping the Command<g ref="char:EOLhyphen"/>ments, all which are almoſt equivalent.</p>
+            <p>For God's method of tranſacting our Re<g ref="char:EOLhyphen"/>demption by Chriſt, was not only by him receiving a full Satisfaction for our Offen<g ref="char:EOLhyphen"/>ces, but by him alſo propoſing a more ra<g ref="char:EOLhyphen"/>tional way to pleaſe him, by requiring us to perform, as Inſtances of our Faith, all manner of Holineſs and Purity, as Condi<g ref="char:EOLhyphen"/>tions and Terms on our part, of our being accepted thro' Faith in Chriſt.</p>
+            <p>Chriſt's Laws as well as any other, run in this disjunction, either Do, or Suffer; ei<g ref="char:EOLhyphen"/>ther live Holily, or periſh Everlaſtingly; nothing is therein promis'd but upon Con<g ref="char:EOLhyphen"/>dition of our Obedience: This is the Rule and Spring upon which they all move, as <hi>Moſes</hi> ſpake to <hi>Iſrael,</hi>
+               <note place="margin">Deut. 5.1.</note> that we take heed and <hi>hearken and do the commandments and ſtatutes</hi> which God commanded us.</p>
+            <p>St. <hi>James</hi> tells us, that <hi>he who is a doer of the work, ſhall be bleſſed in his deed,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in his working and Practice, not in his
+<pb n="10" facs="tcp:102661:6"/>Knowledge or Believing only; for that is but a ſhadow of Godlineſs only which hath no Power, with thoſe in the Goſpel, which cry <hi>Lord, Lord,</hi> but our Bleſſed Saviour tells them,<note place="margin">Mat. 7.21.</note> they ſhall not <hi>enter into the king<g ref="char:EOLhyphen"/>dom,</hi> only they that do <hi>the will of</hi> his <hi>Fa<g ref="char:EOLhyphen"/>ther which is in heaven.</hi> Wherein is intima<g ref="char:EOLhyphen"/>ted Knowledge enough having Propheſied in his Name, but no Salvation on that Ac<g ref="char:EOLhyphen"/>count.</p>
+            <p>Every Article of our Creed may be made uſe of as a proper Argument againſt Sin in general, and a powerful Motive to Obedi<g ref="char:EOLhyphen"/>ence in particular: the great Deſign of our Saviour's goſpel, and our believing in him, being to reform the Lives of Men, and in order thereunto by Faith in <hi>Chriſt, who made himſelf a ſacrifice,</hi> was a ſufficient Atonement, and left us an unparalell'd Example of well doing; we have an admirable Pattern to do what he did, as a reaſon of our Faith and Hope that we have by him.</p>
+            <p>That Goſpel which we believe, and brings us the glad Tidings of Salvation, teaches us not only to believe what he delivers, but <hi>to deny all ungodlineſs and worldly luſts,</hi>
+               <note place="margin">Tit. 2.12.</note> 
+               <hi>and live righteouſly, ſoberly, and godly in this pre<g ref="char:EOLhyphen"/>ſent world;</hi> for ſuch as have given up their
+<pb n="11" facs="tcp:102661:6"/>Names to Chriſt, muſt not think that upon that account they have liberty more than other Men to do what they will, or that they may ſin the more freely becauſe Grace abounds; there is a Yoak to which they muſt ſubmit, and Laws, to the fulfilling of which they ſtand oblig'd; <hi>If ye love me,</hi>
+               <note place="margin">John 14.15.</note> (ſays our Bleſſed Lord) <hi>keep my command<g ref="char:EOLhyphen"/>ments.</hi>
+            </p>
+            <p>God hath ſufficiently declared his Will, that Faith in him intitles no one to a Neg<g ref="char:EOLhyphen"/>lect of Religious Duties, or that any one's caſting himſelf upon his Mercy, or relying upon Chriſt's Merits for Salvation will be available, unleſs as an Evidence of that Faith, and Sincerity of that Relyance, we examplifie and adorn that Faith by a con<g ref="char:EOLhyphen"/>ſcientious and unblameable Converſation.</p>
+            <p>Whatever our Faith intitles us to hope for, 'tis upon this Condition, that if we have right to the precious Promiſes, <hi>we muſt cleanſe our ſelves from all filthineſs of fleſh and ſpirit, and perfect holineſs in the fear of God;</hi>
+               <note place="margin">2 Pet. 1.3, 4.</note> and St. <hi>Peter</hi> calls the Goſpel <hi>the knowledge of him who hath called us to glory; whereby</hi> (ſaith he) <hi>are given the great and precious promiſes; that by theſe ye might he partakers of the divine nature, having eſcaped the cor<g ref="char:EOLhyphen"/>ruption
+<pb n="12" facs="tcp:102661:7"/>that is in the world through luſt.</hi>
+            </p>
+            <p>and it is eaſie to obſerve, that the main thing our Saviour aimed at all his whole Life, was to reſtore Humane Nature to its primitive Purity and Perfection, and to advance true Piety and Holineſs in the World; to bring Men to a good Opinion of, and a ready Compliance with God's Laws, ſo that it influences all their Actions, Faith not being enough to denominate a Man a true Chriſtian, unleſs he goes on to <hi>add to his faith vertue, to his vertue know<g ref="char:EOLhyphen"/>ledge,</hi> &amp;c.</p>
+            <p>Religion not being ſuch an empty Name as to conſiſt in fair Shadows only, in think<g ref="char:EOLhyphen"/>ink well or talking gravely, in all the out<g ref="char:EOLhyphen"/>ward Performances imaginable, unleſs our Actions are agreeable to the ſame, unleſs we practiſe what we profeſs, and are <hi>Doers</hi> of what we <hi>read</hi> and <hi>hear.</hi>
+            </p>
+            <p>I would not be miſtaken, as if I thought Faith ſignified nothing; ſo that a Man be an honeſt, good, moral Man it would be enough, and he ſhould be happy in the End, tho' he did not believe aright, and as he ought, and had little or no regard to the Revelation of God's Will in the <hi>Old</hi> and <hi>New Teſtament,</hi> the Subject of our Faith; as
+<pb n="13" facs="tcp:102661:7"/>ſome have improved the ſeeming difference between St. <hi>Paul</hi> and St. <hi>James,</hi> which I will not now meddle withal:</p>
+            <p>Only aſſert that it is moſt certain that Faith in Chriſt is the main Condition of all our Hopes from the Goſpel-Covenant, the the Scripture being expreſs,<note place="margin">Joh. 6.40.13.15. Act. 10.43. Joh. 12.46 1 Pet. 2.6.</note> as <hi>whoſo believeth on him ſhall have everlaſting life, he ſhall not periſh, he ſhall have remiſſion of ſins, he ſhall not abide in darkneſs; and that Chriſt is the end of the law to every one that doth believe;</hi> ſo that Faith is the principal ground on which our Hopes of Salvation are founded.</p>
+            <p>But withal I further add, that this Faith to make it truly ſaving, muſt be always accom<g ref="char:EOLhyphen"/>panied with doing the Will of God, with a ſincere Obedience to God's Commands, and a Conſcientious Diſcharge of our reſpective Duties; for as he deceives himſelf that hopes to enter into Life, who doth not be<g ref="char:EOLhyphen"/>lieve as he ſhould and ought, ſo are they in no leſs Danger who believe aright, but live not according to it: Would any one not deceive himſelf, he muſt join both together, ſhewing his Faith by his Works, and then with reaſon may he hope to be happy.</p>
+            <p n="2">II. The <hi>Second</hi> thing I obſerved from theſe Words was, <hi>that the Practice of good
+<pb n="14" facs="tcp:102661:8"/>Works,</hi> taken either for Piety towards God, or Charity towards Man, <hi>is abſolutely neceſ<g ref="char:EOLhyphen"/>ſary for all unto Salvation.</hi>
+            </p>
+            <p>When I lay down this Poſition I would not be thought as if we believ'd our Works meritorious, or that they wou'd commute for our Sins; yet I ſay the Obligations to them is indiſpenſible, and as requiſite as any other part of our chriſtian Duty.</p>
+            <p>'Tis acknowledg'd and granted to be true, that we cannot by the beſt we can do, deſerve Happineſs, and the promiſed Re<g ref="char:EOLhyphen"/>ward for them; yet they are neceſſary to be perform'd by all the Branches of Neceſſity imaginable, whether of Precept and Duty, or as the Way and Means, that without the Practice of which none can be admitted in<g ref="char:EOLhyphen"/>to the Kingdom of Heaven, and thro' the Omiſſion of which many forfeit that Inte<g ref="char:EOLhyphen"/>reſt they truly otherwiſe might have had in the Promiſes of Everlaſting Life.</p>
+            <p>In the Promiſe it ſelf all that are Parta<g ref="char:EOLhyphen"/>kers of the Word and Sacraments, all that acknowledge the Word Revealed, to be the way unto Everlaſting Life, have a true In<g ref="char:EOLhyphen"/>tereſt, but of the Pledge of that Bleſſing promiſed, none are Partakers but ſuch as are fruitful in good Works, according to
+<pb n="15" facs="tcp:102661:8"/>the Means or Abilities which God hath be<g ref="char:EOLhyphen"/>ſtow'd upon them,<note place="margin">
+                  <hi>Dr.</hi> Jack<g ref="char:EOLhyphen"/>ſon. <hi>Vol.</hi> 3. <hi>pag.</hi> 587.</note> as Dr. <hi>Jackson</hi>'s Remark and Works are: <q>They are both the Con<g ref="char:EOLhyphen"/>dition and Means with reſpect to God and our ſelves, which are required in our Chri<g ref="char:EOLhyphen"/>ſtian Courſe,</q>
+               <note place="margin">Heb. 12.14.</note> 
+               <hi>and without which no man ſhall ſee the Lord.</hi>
+            </p>
+            <p>
+               <hi>Every tree that bringeth not forth good fruit,</hi>
+               <note place="margin">Mat. 7.19.</note> ſays our Saviour, <hi>ſhall be cut down, and caſt into the fire;</hi> and the Apoſtle tells us, that it <hi>is the will of God,</hi> even <hi>our ſanctification;</hi>
+               <note place="margin">1 Theſſ. 4.3.</note> 
+               <hi>Eſchew evil, and do good; ceaſe to do evil, learn to do well,</hi> teach the Prophets; God re<g ref="char:EOLhyphen"/>quiring the Beginning of our Obedience in this Life, tho' he reſerves the Perfection of it to a Life to come.</p>
+            <p>Nor are they the Condition injoined on<g ref="char:EOLhyphen"/>ly, but as the Way and Means whereby we muſt obtain thoſe promiſed Rewards we are in hopes of, <hi>Tribulation and anguiſh,</hi>
+               <note place="margin">Rom. 2.9, 10.</note> 
+               <hi>indig<g ref="char:EOLhyphen"/>nation and wrath,</hi> the Apoſtle denounceth a<g ref="char:EOLhyphen"/>gainſt <hi>every one that doth evil,</hi> whether <hi>Jew</hi> or <hi>Gentile, but glory, honour, and peace to eve<g ref="char:EOLhyphen"/>ry one that doth good.</hi>
+            </p>
+            <p>Hence are thoſe Compariſons in Scripture of Mens good Works, and the Rewards in another World, one to a Crown or Prize, the other to a Race or Courſe; one to
+<pb n="8" facs="tcp:102661:9"/>ſowing of Seed, the other to Harveſt, or gathering of the Fruit; thoſe who run in a Race, muſt firſt ſtrive before they obtain the promiſed Prize; as every one in his Chri<g ref="char:EOLhyphen"/>ſtian Race muſt contend earneſtly, and con<g ref="char:EOLhyphen"/>tinue fighting before he muſt expect that Crown of Glory which the Lord the Righ<g ref="char:EOLhyphen"/>teous Judge hath promiſed to all them who continue in well doing.</p>
+            <p>As the Husbandman commits his Seed to the Ground, and patiently waits the ap<g ref="char:EOLhyphen"/>pointed Time allotted by God and Nature, and then expects the Fruit; ſo he that is fruitful in good Works, his Labour is not in vain, but he may reaſonably expect the fulfilling of God's Word, that from thence ſhall ſpring up unto him a glorious Crop, and a great Reward of Bliſs and Glory: So that the Performance of theſe are Conditi<g ref="char:EOLhyphen"/>ons and Terms upon which we are to build our hopes of Happineſs; and moreover, <hi>Firſt,</hi> render our Services more acceptable unto God; Are Means, <hi>Secondly,</hi> of bring<g ref="char:EOLhyphen"/>ing more Glory to his Name; And, <hi>Thirdly,</hi> by which we ſhall be the greateſt Gainers, and reap moſt Advantage.</p>
+            <p n="1">1. They render, <hi>Firſt,</hi> our Services more acceptable unto God's, Purity and Holineſs
+<pb n="17" facs="tcp:102661:9"/>in the Heart before there be, or when there is no opportunity to work, are in them<g ref="char:EOLhyphen"/>ſelves good; but when they are demonſtra<g ref="char:EOLhyphen"/>ted by godly and charitable Actions, then ſmell they ſweet, and are Sacrifices well-pleaſing.</p>
+            <p>Thus <hi>Noah</hi>'s Thankfulneſs to God for his Preſervation from that univerſal Deluge of all (except himſelf,<note place="margin">Gen. 8.21.</note> and thoſe with him in the Ark), and <hi>Abraham</hi>'s Faith,<note place="margin">Gen. 22.12</note> were well known unto God; but when the one pub<g ref="char:EOLhyphen"/>lickly built an Altar, and offered burnt-offerings unto the Lord, and the other rea<g ref="char:EOLhyphen"/>dily went to ſacrifice his only Son, the Text tells us, that thereupon <hi>God ſmelled a ſavour</hi> of reſt, and <hi>now I know that thou feareſt God.</hi>
+            </p>
+            <p>A Man being inwardly upright towards God, harmleſs and innocent, tender and compaſſionate towards Man, may have com<g ref="char:EOLhyphen"/>fort and ſatisfaction in himſelf upon ſuch Reflections; but it would be far better to unlock thoſe treaſures, and diſperſe them abroad, by which they will gain greater Ac<g ref="char:EOLhyphen"/>ceptance at God's Hands, who is more eſpe<g ref="char:EOLhyphen"/>cially delighted with the fruits of our Faith in the Practice of Piety, and Exerciſe of a Chriſtian Life both towards God and Man.</p>
+            <p n="2">
+               <pb n="18" facs="tcp:102661:10"/> 2. By which, <hi>Secondly,</hi> God's Name is more glorifi'd, which reaſon is affign'd by our Sa<g ref="char:EOLhyphen"/>viour why our <hi>light ſhould ſhine before men,</hi>
+               <note place="margin">Mat. 5.16.</note> that thereby we may <hi>glorifie our father which is in heaven:</hi> and he is ſo more particularly either in our ſelves, or in others. In our ſelves, by our Obedience to his Commands, which were therefore given us, not that we might know only but do them.</p>
+            <p>Both natural and ſpiritual Endowments are given us,<note place="margin">1 Cor. 12.</note> as St. <hi>Paul</hi> ſpeaks, to profit withal. Gifts themſelves then ceaſe ſo to be, when their Uſe and Benefit ceaſeth, and thoſe are ſubject to a moſt ſevere Account, who bu<g ref="char:EOLhyphen"/>ry their Talents, as well as thoſe that em<g ref="char:EOLhyphen"/>ploy them ill.</p>
+            <p>A not gaining will condemn as well as a loſing, and a not doing good as well as do<g ref="char:EOLhyphen"/>ing evil; with the unprofitable Servant in the Parable, Men will be ſeverely ſentenc'd for bringing no Glory to their Maker, in not be<g ref="char:EOLhyphen"/>ing means of praiſing him, as by their good Works they may. In others; God is glo<g ref="char:EOLhyphen"/>rifi'd by Mens good Works, and truly blaſ<g ref="char:EOLhyphen"/>phemed by their evil Ones. Our Saviour and his Apoſtles, curing the Impotent, heal<g ref="char:EOLhyphen"/>ing the Diſeaſed,<note place="margin">Acts 4.21.</note> and raiſing the Dead, makes the Beholders <hi>glorifie God</hi> upon the ſight of
+<pb n="19" facs="tcp:102661:10"/>what <hi>was done,</hi> and acknowledg'd,<note place="margin">Luk 7.16.</note> 
+               <hi>That a great Prophet was riſen among them, and that God had viſited his people.</hi>
+            </p>
+            <p>Our Saviour there they took to be but a Man, at beſt, a Prophet; attribute therefore no more to him; but to God, <hi>who,</hi> as they thought, <hi>had given ſuch gifts unto men;</hi> as upon St. <hi>Peter</hi>'s Relation to the Apoſtles,<note place="margin">Acts 11.18.</note> how God by his Preaching had converted the <hi>Gentiles, when they heard theſe things they held their peace, and glorified God.</hi> And as good Works do win Glory to God, ſo evil Ones, on the contrary, do mightily diſhonour him, and cauſe his Holy Name to be evil ſpoken of by thoſe that do not believe.</p>
+            <p>This was St. <hi>Cyprian</hi>'s Complaint long ſince, what the unbelieving Heathens ſaid in his time upon like occaſion, againſt the Chri<g ref="char:EOLhyphen"/>ſtians, <hi>Ecce quam jactant ſe redemptos,</hi> &amp;c. (ſaith he) <hi>Theſe are the men that boaſt themſelves of their Redemption and Deliverance, of their Baptiſm and Goſpel,</hi> when their whole Life was a Contradiction to it, and then preſent<g ref="char:EOLhyphen"/>ly fall a railing at their Religion, and ſpeak<g ref="char:EOLhyphen"/>ing evil of that God whom they worſhip<g ref="char:EOLhyphen"/>ped.</p>
+            <p>As <hi>Nathan</hi> could tell <hi>David</hi> after his <hi>Mur<g ref="char:EOLhyphen"/>der</hi> and <hi>Adultery, By this deed</hi> (ſaith he) <hi>thou
+<pb n="20" facs="tcp:102661:11"/>haſt cauſed the enemies of the Lord to blaſ<g ref="char:EOLhyphen"/>pheme;</hi> and St. <hi>Paul</hi> objects the ſame thing to the <hi>Jews,</hi>
+               <note place="margin">Rom. 2.23, 24.</note> 
+               <hi>Thou that glorieſt in the law, by breaking the law diſhonoureſt thou God? For the name of God is diſhonoured among the Gentiles through you.</hi>
+            </p>
+            <p>Which very Argument we find made uſe of, as a principal Incitement to Honeſty of Life and Manners,<note place="margin">1 Tim 6.1.</note> 
+               <hi>That the name of God and</hi> his <hi>doctrine be not evil ſpoken of;</hi> for which reaſon alſo ſervants are to <hi>count their maſters worthy of all honour, that the name of God be not blaſphemed,</hi> as a Doctrine of Liberty, and a Religion that allows any thing.</p>
+            <p>And indeed there is nothing wounds our Religion more, or lays a greater Blemiſh up<g ref="char:EOLhyphen"/>on it, than a Form of Godlineſs and no Power, a 'Semblance of Religion, and yet licentious Practices; theſe do more Injury to our Profeſſion, and bring more Diſho<g ref="char:EOLhyphen"/>nour to our God, than an open Infidel and Pagan that denies both.</p>
+            <p n="3">3. By our good Works, <hi>Thirdly,</hi> we ſhall be the greateſt Gainers or Loſers, in that by them we <hi>make our calling and election ſure,</hi> as St. <hi>Peter</hi> tells us,<note place="margin">2 Pet. 1.10.</note> 
+               <hi>Give all diligence</hi> (ſaith he) <hi>to make your calling and election ſure;</hi> and how
+<pb n="21" facs="tcp:102661:11"/>this was to be done he directs, by adding <hi>to their faith vertue; to their vertue knowledge; to their knowledge temperance; to their tempe<g ref="char:EOLhyphen"/>rance patience; to their patience godlineſs; to their godlineſs brotherly-kindneſs; and to their brotherly-kindneſs love.</hi>
+            </p>
+            <p>The Apoſtle there lays down a full Cata<g ref="char:EOLhyphen"/>logue of thoſe Graces which beautifie a Chriſtian's Life, and thoſe Works by which a Man comes as it were ſtep by ſtep to a full Perfection in Chriſt, the Foundation of all which is Faith, and the Top, Love to our Brethren: <hi>Theſe are the works</hi> (ſaith he) <hi>that aſſure us of election, that if we live in them, we ſhall certainly be ſaved in the end.</hi>
+            </p>
+            <p>But 'tis to be remembered, that whatſo<g ref="char:EOLhyphen"/>ever good Wrok we do is no meritorious Cauſe of our Election or Salvation, but neceſſary Effects which follow, and from whence we may ground an Aſſurance, to ur unutterable Comfort, that if we conti<g ref="char:EOLhyphen"/>nue in them, our End ſhall be Peace, and why? Becauſe the Promiſe of God is ſure and ſtedfaſt,<note place="margin">Joh. 5.29.</note> That <hi>they which have done good ſhall come forth</hi> of their Graves <hi>to the re<g ref="char:EOLhyphen"/>ſurrection of life, and they that have done evil, to the reſurrection of condemnation;</hi> and eve<g ref="char:EOLhyphen"/>ry
+<pb n="22" facs="tcp:102661:12"/>Man ſhall receive his Wages according to his Labour.</p>
+            <p>And it is obſervable, God hath often de<g ref="char:EOLhyphen"/>clar'd, that thoſe unſpeakable Joys in Hea<g ref="char:EOLhyphen"/>ven, are therefore prepared by him only as Rewards of Mens well-doing in this World, and ſhall be diſtributed to each according to the meaſure and proportion of that Good which they have done in the World.</p>
+            <p>
+               <hi>Come,</hi>
+               <note place="margin">Matth. 15.34.</note> 
+               <hi>ye bleſſed of my Father,</hi> will our Sa<g ref="char:EOLhyphen"/>viour one day ſay, <hi>inherit the kingdom pre<g ref="char:EOLhyphen"/>pared for you from the foundation of the world,</hi> and the Reaſon is added, <hi>I was hungry, and ye fed me; thirſty, and ye gave me drink; a ſtranger, and ye took me in; in priſon, and ye viſited me:</hi>
+               <note place="margin">Gal. 6 9.</note> Therefore, ſaith St. <hi>Paul, let us not be weary in well-doing, for in due ſea<g ref="char:EOLhyphen"/>ſon we ſhall reap if we faint not:</hi> And in the Verſe before,<note place="margin">Verſe <hi>3.</hi>
+               </note> 
+               <hi>Whatſoever a man ſoweth, that ſhall he reap; He that ſoweth to the fleſh, ſhall of the fleſh reap corruption, but he that ſoweth to the ſpirit, ſhall of the ſpirit reap life everlaſting.</hi>
+            </p>
+            <p>This is the Ground of our Aſſurance, That a good Life ſhall be crowned with Eternal Glory, which was St. <hi>Paul</hi>'s rejoicing, ha<g ref="char:EOLhyphen"/>ving <hi>fought a good fight,</hi> and <hi>finiſhed</hi> his <hi>courſe,</hi> that <hi>thenceforth was laid up for</hi> him <hi>a
+<pb n="23" facs="tcp:102661:12"/>crown of righteouſneſs, which the Lord, the righteous judge, ſhould give him</hi> of his own free Grace and Mercy; as a Gift, not a Debt, as a Reward, not the Purchaſe of his well<g ref="char:EOLhyphen"/>doing.</p>
+            <p>And though our Judgment at the latter day be according to our Works, as the Scripture in many places expreſſes, yet our Works ſhall be no Cauſes of this Judgment; I mean our good Works; we read indeed that <hi>every man ſhall be rewarded according to his works,</hi>
+               <note place="margin">Rev. 2.6. Rev. 20.13.</note> and that they were <hi>judged according to their works</hi> (<hi>i. e.</hi>) according to the qua<g ref="char:EOLhyphen"/>lity of their Works, not according to the Merit of them, as their Works were, not according as their Works deſerved.</p>
+            <p>The Apoſtle therefore ſpeaking of that Act of diſtributive Juſtice in God,<note place="margin">Rom. 2.5.</note> whereby he diſpenſeth Recompence according to the quality of every Man's Perſon and Demea<g ref="char:EOLhyphen"/>nour, calls it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Revelation of the juſt Judgment of god; as if he ſhould ſay, Then it ſhall appear to all the World how juſt the Lord is in his Rewards and Remunerations, when every Man ſhall receive according to what he hath done.</p>
+            <pb n="24" facs="tcp:102661:13"/>
+            <p> I might inſtance further in reſpect of our own preſent Advantage even in this World, which a Man ſhall ſometime or other find by living well, and doing good, according to the Advice of <hi>Timothy,</hi> That Godlineſs, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Practice of Piety, li<g ref="char:EOLhyphen"/>ving religiouſly and holily, as their Faith is ſound, ſo having their Manners uncorrupt and blameleſs, is profitable for all things, having the Promiſe of good things here and hereafter; of Bleſſings in this World and the next, as the Scriptures are frequent in Inſtances, had I time to recount them un<g ref="char:EOLhyphen"/>to you.</p>
+            <p>There remains now, in the <hi>laſt place,</hi> on<g ref="char:EOLhyphen"/>ly to ſhew,</p>
+            <p n="3">III. Why thoſe are more indiſpenſibly obliged to be exemplary in all good Works, who have been <hi>more particularly acquainted with God's Will, and early inſtructed in it.</hi>
+            </p>
+            <p>As we may be ſuppoſed to have been, whoſe Parents were our Spiritual Guides, as well as Fathers of our Fleſh; and under whoſe Roof we were early ſeaſoned with their daily Inſtructions and good Exam<g ref="char:EOLhyphen"/>ple.</p>
+            <pb n="25" facs="tcp:102661:13"/>
+            <p> We ſhall therefore reflect upon their Me<g ref="char:EOLhyphen"/>mory and Care, we ſhall cauſe others to uncover their Aſhes with Diſhonour, unleſs we adorn that Faith our Fathers believed, which they taught us, and which we ſaw them practiſe.</p>
+            <p>We therefore from Children having been <hi>trained uup in the way that we ſhould walk,</hi> ſhould not ever <hi>depart from it,</hi> but tranſ<g ref="char:EOLhyphen"/>mit the Honour of our Fathers Memories to Generations to come, by walking after their early Directions,<note place="margin">Tit. 2.7.</note> by <hi>ſhewing</hi> our ſelves <hi>patterns,</hi> as they ſhewed us, <hi>of good works in all things;</hi> and as St. <hi>James</hi> more fully,<note place="margin">Jam. 3.13.</note> 
+               <hi>out of a good converſation ſhewing forth our works with meekneſs.</hi>
+            </p>
+            <p>Such a Practice might poſſibly win others, or at leaſt ſtop their Mouths whoſe Religi<g ref="char:EOLhyphen"/>ous and Charitable Converſation while they behold, might be either allured to practiſe the ſame, or elſe ſilence their Clamours and Cenſures.</p>
+            <p>For the beholding our good Works is the beſt Argument to perſuade an evil Ge<g ref="char:EOLhyphen"/>neration from the Wickedneſs of their Ways, and even an unanſwerable Reaſon to an Infidel for his Converſion, as they were to the Jaylour mentioned in <hi>Acts</hi> 16.
+<pb n="26" facs="tcp:102661:14"/>who, ſeeing the Conſtancy and Cheerful<g ref="char:EOLhyphen"/>neſs of <hi>Paul</hi> and <hi>Silas,</hi> was thereby turned to the Faith.</p>
+            <p>By this Method was our Religion firſt recommended to the World, when our Church-Hiſtories alſo tell us of By-ſtanders and Executioners too, that at the Martyr<g ref="char:EOLhyphen"/>dom of Godly Chriſtians beholding their Patience and Univerſal Charity, their Faith and Courage in ſuffering, made them be<g ref="char:EOLhyphen"/>come Chriſtians alſo.</p>
+            <p>Thus <hi>Juſtin Martyr</hi> of a vain Philoſopher became a Religious Chriſtian,<note place="margin">Juſtin Martyr <hi>Apol.</hi> 1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> as he himſelf gives an Account to the <hi>Roman</hi> Emperour in his firſt Apology.</p>
+            <p>And I might alledge other Inſtances even of Enemies;<note place="margin">Julian. <hi>Epiſt.</hi> 49. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Julian</hi> the Apoſtate himſelf in his Epiſtle to <hi>Arſacius</hi> the <hi>Ponti<g ref="char:EOLhyphen"/>fex</hi> of <hi>Galatia, Epiſt.</hi> 49. adviſing him, <q>To build Hoſpitals, and take care of the Poor in every City, according to the Practice of the Impious <hi>Galileans,</hi> as his uſual Style is, who by their
+<pb n="27" facs="tcp:102661:14"/>Bounty to the Poor and Strangers, their Care in burying their Dead, and their Holineſs of Life, propagate their Religi<g ref="char:EOLhyphen"/>on, and overſpread all.</q>
+            </p>
+            <p>By theſe good Actions many are wrought upon, and won more, than by any Argu<g ref="char:EOLhyphen"/>ments whatſoever, and therefore the <hi>Apo<g ref="char:EOLhyphen"/>ſtate</hi> directs to the Practice of the like Boun<g ref="char:EOLhyphen"/>ty and Holineſs of Life.</p>
+            <p>And by the ſame Methods ſtill we may continue the Reputation of our Religion, and wipe off all the Slanders and Reproaches of either that, or us that profeſs it; by doing what the Apoſtle adviſes the whole Chriſtian Church, That they have their <hi>converſation honeſt among the Gentiles,</hi>
+               <note place="margin">1 Pet. 2.12.</note> 
+               <hi>that whereas they ſpeak againſt you as evil-doers, they may by your good works, which they ſhall behold, glorifie God in the day of viſita<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>May we all therefore endeavour to bring Glory to our Maker by our abounding in all good Works, eſpecially of Charity to the Neceſſitous, which makes us reſemble God himſelf, the Chief Happineſs, whoſe Excellency conſiſts in being, and doing Good.</p>
+            <pb n="28" facs="tcp:102661:15"/>
+            <p> I need not offer Arguments, I am ſure, to you, to perſwade to that, which you know is no Indifferent or Arbitrary thing, but as ſtrictly required, the contrary as ſe<g ref="char:EOLhyphen"/>verely threatened, and the Rewards of Bounty and Charity as firmly aſcertain'd as any other Precept in the Goſpel.</p>
+            <p>And who knows the wiſe Ends of God's Providence in not ſo liberally providing for ſome of the ſame Tribe as others; perhaps that the moſt Wealthy and Great may wiſely conſider what even they are ſubject to, as well as their poor Brother, whoſe Ne<g ref="char:EOLhyphen"/>ceſſities implore their Aid.</p>
+            <p>Perhaps to prove them whether they will ſay in their Hearts, as the <hi>Iſraelites</hi> of old did,<note place="margin">Deut. 8.17.</note> 
+               <hi>My power, and the ſtrength of my arm hath procured me this abundance.</hi>
+            </p>
+            <p>Or, <hi>laſtly,</hi> that the World may ſee whe<g ref="char:EOLhyphen"/>ther thoſe who are Rich in this World will be alſo in Good Works, whether they will be ready to do good, and commu<g ref="char:EOLhyphen"/>nicate, and be bountiful out of that Basket whereof they are but the Almoners, and be liberal of that Store which was gi<g ref="char:EOLhyphen"/>ven them like <hi>Joſeph</hi>'s Corn, to be laid up in Barns againſt a Famine and hard time to come.</p>
+            <pb n="29" facs="tcp:102661:15"/>
+            <p> That we may anſwer therefore the De<g ref="char:EOLhyphen"/>ſign of God's Providence in ſuffering ſome to want, while we are full.</p>
+            <p>And that we may make ſome grateful Ac<g ref="char:EOLhyphen"/>knowledgments for thoſe Bleſſings we have in Plenty ſhower'd down upon us by his Bounty, from whoſe Hand alone we receive all that we poſſeſs; Put on Bowels of Mer<g ref="char:EOLhyphen"/>cies, and make the Hearts of the Widows and Fatherleſs, of thoſe of the ſame Fa<g ref="char:EOLhyphen"/>mily and Houſhold with your ſelves, re<g ref="char:EOLhyphen"/>joice with you, and praiſe God for you; their Numbers and Neceſſities beſpeak your Compaſſio, and command your Aſ<g ref="char:EOLhyphen"/>ſiſtance to love them not <hi>in word,</hi> or <hi>ſpeech only, but in deed, and in truth;</hi> for your Compaſſion may perhaps cheer them a little in their Diſtreſs, but it muſt be your Hands that muſt raiſe them, and your good Works lift them up to a bet<g ref="char:EOLhyphen"/>ter Eſtate.</p>
+            <p>The Honour of God and our Holy Faith obliges us, our own Deſcent and the Memory of them from whom we ſprang, require us to do as much good as we can to them of the ſame Houſhold of Faith.</p>
+            <pb n="30" facs="tcp:102661:16"/>
+            <p> As we have therefore Opportunity, (and now once more one is put into our Hands) dedicate to God ſome Portion of that Sub<g ref="char:EOLhyphen"/>ſtance wherewith God hath bleſſed you, and why may it not be the ſame Portion out of our own, which our Heavenly Father allotted our earthly Parents out of other Mens Eſtates, to bring up and maintain our ſelves.</p>
+            <p>By his Bleſſing on their Care we have been brought up and diſpoſed of into our reſpective Stations in the World. The Maneſt of which have their Mite, and the more Honourable and Great, by their greater Number of Talents have greater Obligations, as well as greater Opportuni<g ref="char:EOLhyphen"/>ties, of doing Good therewith.</p>
+            <p>Both are obliged as the Son of <hi>Syrach</hi> and the Apoſtle adviſes, <hi>To give unto the moſt High according as he hath inriched them, and to lay by in ſtore as God had proſpered them,</hi> and for their ſo doing they have God for thier Pay-Maſter, who hath promiſed, If they <hi>ſow bountifully, they ſhall reap bountifully,</hi> and greater ſhall be their Reward in Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <pb n="31" facs="tcp:102661:16"/>
+            <p> By <hi>making thus Friends of the Mammon of unrighteouſneſs, whenever they fail,</hi> as ſome<g ref="char:EOLhyphen"/>time or other, how ſoon we know not, they will; <hi>they may receive us into everlaſting ha<g ref="char:EOLhyphen"/>bitations:</hi> and we ſhall lay a Foundation in the higheſt Heavens, which no Diſturbance on Earth ſhall ever remove or take away from us, but our Bleſſedneſs ſhall remain for ever, and we be rewarded with all the abundant Riches of God's Kingdom for evermore.</p>
+            <p>
+               <hi>Which God in his infinite Mercy grant unto us all, thro' Jeſus Chriſt our Lord and only Saviour; To whom with the Father and Holy Spirit, Three Perſons, and One God, be aſcribed by us and all the World, All Honour and Glory, Praiſe and Power, Might, Majeſty and Dominion, now, henceforth and for evermore.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
